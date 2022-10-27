@@ -1,0 +1,22 @@
+{
+  "collectionName": "components_brands_brands",
+  "info": {
+    "displayName": "brands"
+  },
+  "options": {},
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "image": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    }
+  }
+}
